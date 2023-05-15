@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author danym
- *
- */
-module mainRun {
-}
