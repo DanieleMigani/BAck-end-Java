@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author danym
+ *
+ */
+module mainRun {
+}
